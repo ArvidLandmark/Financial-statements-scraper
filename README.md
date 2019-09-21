@@ -11,3 +11,6 @@ Enjoy!
 All data is gathered from https://finance.yahoo.com/.
 
 Created by Arvid Landmark, May 2019.
+
+Preview:
+![image](financialdata.png)
